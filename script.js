@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Drake - Laugh Now Cry Later', 'Jay Z - Empire State of Mind', 'Chaka Demus & Pliers - Murder She Wrote'];
+const songs = ['hey', 'Drake - Laugh Now Cry Later', 'Jay-Z F(ft. Alicia Keys) - Empire State of Mind'];
 
 // Keep track of song
 let songIndex = 2;

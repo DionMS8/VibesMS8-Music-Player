@@ -1,19 +1,10 @@
-NAME OF PROJECT: VibesMS8 Music Player 
+## Music Player
 
-PURPOSE:
+Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
-TECHNOLOGIES USED:
+## Project Specifications
 
-Front-End:
-- HTML
-- CSS
-- JavaScript
-
-Back-End:
-
-
-LIMITATIONS:
-
-
-
-
+- Create UI for music player including spinning image and song detail popup
+- Add play and pause functionality
+- Switch songs
+- Progress bar
