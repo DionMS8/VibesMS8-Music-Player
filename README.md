@@ -16,7 +16,11 @@ A simple UI to play music stored in the "music folder" using the HTML5 audio API
 - CSS3
 - JavaScript (ES6)
 
+- HTML5 Audio API
+
 ## Screenshots 
 
 ![image](https://user-images.githubusercontent.com/55777067/126808962-0be9ac14-6289-416b-b775-1137b341641b.png)
 
+
+## References
